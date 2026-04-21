@@ -18,7 +18,7 @@ while True:
         numeros_validos = None
 
     if numeros_validos is None:
-        print('Um ou ambos os numero digitados são invlaidos.')
+        print('Um ou ambos os numero digitados são invalidos.')
         continue
 
     operadores_permitidos = '+-/*'
